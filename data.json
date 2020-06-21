@@ -1,0 +1,183 @@
+{
+    "o":
+    [
+        {
+    "details":
+    {
+        "image":"pic.png",
+      "name":"Alekhya",
+      "prof":"Software developer",
+      "mobile":9999988888,
+      "Email":"alekhyamand@gmail.com",
+      "address":"Rajahmundry",
+      "ca":"Aiming to work as a software developer and utilize my skills for the growth of an organization"
+    },
+
+
+    "cardsdata":
+    [
+        {
+            "name":"Giet college,rjy",
+            "year":2021,
+            "Percent":92.5
+
+    },
+    {
+        "name":"Sri chaitanya Junior college,rjy",
+        "year":2017,
+            "Percent":97.5
+     }   ,
+    {
+        "name":"Bhashyam Public School,rjy",
+        "year":2015,
+            "Percent":9.8
+     }
+
+    ],
+
+    "skill":
+    {
+        "sk":["Python","Java","C","basic knowledge in sql"],
+        "pro":"Created an Account Management System that can be used by Banks using HTML, Servlets and JSP, JDBC and Oracle"
+    },
+
+    "hobby":
+    {
+        "h":["Drawing","playing badminton","playing piano"]
+    },
+    "achieve":
+    {
+        "ai":[
+            "Successfully completed certification courses on Python,Java,Problem solving through C,DBMS,Cloud computing basics at NPTEL ",
+            "Received Certificate of Appreciation and recognized as NPTEL Discipline Star ",
+            "Secured certificate for  being an active participant in Interactive Web Design event held by GIET in Sep,2019",
+            "Received Certificate of Participation and Appreciation in Tech Charades, Code debugging and Mirror Image events held by Adikavi Nannaya University during Sep, 2019",
+            "100% Scholarship has been awarded by Government for pursuing B.Tech based on merit in EAMCET.",
+            "Scholarship under Pragati Scholarship Scheme based on merit in Intermediate."
+            
+            
+        ],
+        "declare":"I hereby declare that above mentioned details are true"
+    }
+},
+
+
+
+{
+    "details":
+    {
+        "image":"pic.png",
+      "name":"Vijaya",
+      "prof":"Student",
+      "mobile":6799988888,
+      "Email":"vijaya45@gmail.com",
+      "address":"Rajahmundry",
+      "ca":"Aiming to work as a software developer and utilize my skills for the growth of an organization"
+    },
+
+
+    "cardsdata":
+    [
+        {
+            "name":"Adithya college,rjy",
+            "year":2021,
+            "Percent":82.5
+
+    },
+    {
+        "name":"Sri chaitanya Junior college,rjy",
+        "year":2017,
+            "Percent":97.5
+     }   ,
+    {
+        "name":"Bhashyam Public School,rjy",
+        "year":2015,
+            "Percent":9.8
+     }
+
+    ],
+
+    "skill":
+    {
+        "sk":["Python","Java","C"],
+        "pro":"Created an Hotel Management System that can be used by hotels using HTML, Servlets and JSP, JDBC and Oracle"
+    },
+
+    "hobby":
+    {
+        "h":["playing badminton","playing piano"]
+    },
+    "achieve":
+    {
+        "ai":[
+            "Successfully completed certification courses on Python,Java,Problem solving through C,DBMS,Cloud computing basics at NPTEL ",
+            "Received Certificate of Appreciation and recognized as NPTEL Discipline Star ",
+            "Secured certificate for  being an active participant in Interactive Web Design event held by GIET in Sep,2019",
+          "Scholarship under Pragati Scholarship Scheme based on merit in Intermediate."
+            
+            
+        ],
+        "declare":"I hereby declare that above mentioned details are true"
+    }
+},
+
+{
+    "details":
+    {
+        "image":"pic.png",
+      "name":"Sruthi",
+      "prof":"Software developer",
+      "mobile":7789988888,
+      "Email":"Sruthi99@gmail.com",
+      "address":"Rajahmundry",
+      "ca":"Aiming to work as a software developer and utilize my skills for the growth of an organization"
+    },
+
+
+    "cardsdata":
+    [
+        {
+            "name":"Giet college,rjy",
+            "year":2021,
+            "Percent":92.5
+
+    },
+    {
+        "name":"Sri chaitanya Junior college,rjy",
+        "year":2017,
+            "Percent":97.5
+     }   ,
+    {
+        "name":"Bhashyam Public School,rjy",
+        "year":2015,
+            "Percent":9.8
+     }
+
+    ],
+
+    "skill":
+    {
+        "sk":["Python","Java","C","basic knowledge in sql"],
+        "pro":"Created an Quiz Management System  using HTML, Servlets and JSP, JDBC and Oracle"
+    },
+
+    "hobby":
+    {
+        "h":["Drawing","playing piano"]
+    },
+    "achieve":
+    {
+        "ai":[
+            "Successfully completed certification courses on Python,Cloud computing basics at NPTEL ",
+            "Received Certificate of Appreciation and recognized as NPTEL Discipline Star ",
+            "Secured certificate for  being an active participant in Interactive Web Design event held by GIET in Sep,2019",
+            "Received Certificate of Participation and Appreciation in Tech Charades, Code debugging and Mirror Image events held by Adikavi Nannaya University during Sep, 2019"
+           
+            
+        ],
+        "declare":"I hereby declare that above mentioned details are true"
+    }
+}
+
+]
+}

@@ -1,0 +1,95 @@
+body
+{
+	background-color:#58D68D;
+}
+#main
+{
+	background-color: #D5E1E9 ;
+	margin:10%;
+	display: flex;
+	justify-content: space-around;
+	border-radius: 5%;
+}
+
+
+
+.card,
+.card1,
+.card2
+{
+	background-color:rgb(93, 126, 103) ;
+	margin: 4%;
+	width:33%;
+    border-radius: 4%;
+    text-align: center;
+	box-shadow: 5px 5px 4px 4px ;
+}
+
+
+.card:hover,
+.card1:hover,
+.card2:hover
+{
+	color:rgb(67, 29, 139);
+}
+
+
+p{
+	font-size:15px;
+}
+a{
+	text-decoration: none;
+    color:rgb(134, 15, 15);
+}
+
+a>h3{
+	color:rgb(134, 15, 15);
+}
+
+
+@media screen and (max-device-width:480px)
+{
+	img{
+		width:300px;
+		height:300px
+	}
+  
+    #main{
+        flex-direction: column;
+	}
+	.card,.card1,.card2
+	{
+		background-color:rgb(99, 46, 8);
+		width:100%
+	}
+	.card:hover,
+.card1:hover,
+.card2:hover
+{
+	color:rgb(233, 111, 12);
+}
+}
+
+@media (min-device-width:481px) and (max-device-width:780px)
+{
+	img{
+		width:300px;
+		height:300px
+	}
+	#main{
+        flex-direction: column;
+	}
+	.card,.card1,.card2
+	{
+		background-color:rgb(8, 73, 99);
+		width:100%
+	}
+	.card:hover,
+.card1:hover,
+.card2:hover
+{
+	color:rgb(226, 12, 233);
+}
+}
+
+
